@@ -1,0 +1,14 @@
+C:\Users\micha\Test_repo\bin\Debug\net8.0\Test_repo.exe
+C:\Users\micha\Test_repo\bin\Debug\net8.0\Test_repo.deps.json
+C:\Users\micha\Test_repo\bin\Debug\net8.0\Test_repo.runtimeconfig.json
+C:\Users\micha\Test_repo\bin\Debug\net8.0\Test_repo.dll
+C:\Users\micha\Test_repo\bin\Debug\net8.0\Test_repo.pdb
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.AssemblyInfoInputs.cache
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.AssemblyInfo.cs
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.csproj.CoreCompileInputs.cache
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.dll
+C:\Users\micha\Test_repo\obj\Debug\net8.0\refint\Test_repo.dll
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.pdb
+C:\Users\micha\Test_repo\obj\Debug\net8.0\Test_repo.genruntimeconfig.cache
+C:\Users\micha\Test_repo\obj\Debug\net8.0\ref\Test_repo.dll
